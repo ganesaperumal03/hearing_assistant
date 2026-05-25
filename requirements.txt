@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+groq 
+google-genai 
+opencv-python 
+mediapipe 
+deepface 
+streamlit 
+websockets 
+tf-keras
