@@ -1,10 +1,20 @@
-fastapi 
-uvicorn 
-groq 
-google-genai 
-opencv-python 
-mediapipe 
-deepface 
-streamlit 
-websockets 
+# Web Server & Real-time Communication
+fastapi
+uvicorn
+websockets
+
+# ASR (Audio Processing) & LLM
+groq
+google-genai
+pyaudio
+numpy
+
+# VSR (Visual Processing) & Face tracking
+opencv-python
+mediapipe
 tf-keras
+deepface
+
+# Frontend Interface
+streamlit
+python-dotenv

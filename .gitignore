@@ -4,6 +4,9 @@
 # Environment variables
 .env
 
+# Pip cache folder
+.pip_cache/
+
 # Python cache
 __pycache__/
 *.pyc
